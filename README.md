@@ -1,6 +1,6 @@
-# _Calculator_
+# _Calculations_
 
-#### _Basic Calculator App_
+#### _Basic Calculations and Conversions_
 
 #### By _**Alan Call and Jo Miller**_
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_A very basic calculator app, made to practice some JavaScript basics during our second week at Epicodus_
+_A very basic calculator app, made to practice some JavaScript basics during our second week at Epicodus. Can add, subtract, multiply, and divide. Can also convert temperatures between farenheit and celsius._
 
 ## Setup/Installation Requirements
 
